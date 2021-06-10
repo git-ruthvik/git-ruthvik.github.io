@@ -1,5 +1,5 @@
 ## Portfolio Website
-git-ruthivk.github.io
+git-ruthvik.github.io
 
 
 ## Copyright and License
